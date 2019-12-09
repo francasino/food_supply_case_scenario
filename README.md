@@ -3,6 +3,4 @@ Blockchain Smart contracts to enable food supply in a real case scenario for PAG
 
 http://www.pagonis-dairy.gr/en/
 
-The code can be used if cited properly:
-
 
