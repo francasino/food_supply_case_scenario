@@ -14,6 +14,7 @@ http://www.pagonis-dairy.gr/en/
 $ ganache-cli
 
 3.2 In the second execute
+
 $ truffle migrate --reset
 
 $ npm run dev 
