@@ -15,6 +15,7 @@ $ ganache-cli
 
 3.2 In the second execute
 $ truffle migrate --reset
+
 $ npm run dev 
 
 This will run the graphical web and enables query of the contents. There is a link to IPFS for each product sheet (actually testing, so the file is repeated)
