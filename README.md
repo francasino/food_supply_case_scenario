@@ -11,6 +11,7 @@ http://www.pagonis-dairy.gr/en/
 3. Open 2 terminals in the root folder (assuming that you have all the pre-requisites installed, otherwise check the smart contracts repo of my github)
 
 3.1 In the first execute 
+
 $ ganache-cli
 
 3.2 In the second execute
